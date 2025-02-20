@@ -1,0 +1,22 @@
+esp-idf/hal/CMakeFiles/__idf_hal.dir/brownout_hal.c.obj: \
+ /opt/esp/idf/components/hal/brownout_hal.c \
+ /opt/esp/idf/components/hal/esp32c3/include/hal/brownout_ll.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/13.2.0/include/stdbool.h \
+ /opt/esp/idf/components/soc/esp32c3/include/soc/rtc_cntl_struct.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/13.2.0/include/stdint.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/stdint.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/machine/_default_types.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/features.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/_newlib_version.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_intsup.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_stdint.h \
+ /opt/esp/idf/components/hal/platform_port/include/hal/regi2c_ctrl.h \
+ /opt/esp/idf/components/esp_hw_support/include/esp_private/regi2c_ctrl.h \
+ /home/mo/work/projects/eppendorf/main/esp-idf/examples/protocols/https_server/simple/_build/config/sdkconfig.h \
+ /opt/esp/idf/components/esp_rom/include/esp_rom_regi2c.h \
+ /opt/esp/idf/components/soc/esp32c3/include/soc/regi2c_defs.h \
+ /opt/esp/idf/components/esp_common/include/esp_bit_defs.h \
+ /opt/esp/idf/components/soc/esp32c3/include/soc/regi2c_brownout.h \
+ /opt/esp/idf/components/hal/include/hal/brownout_hal.h \
+ /opt/esp/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/13.2.0/include/stddef.h \
+ /opt/esp/idf/components/soc/esp32c3/include/soc/soc_caps.h

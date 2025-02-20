@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mo/work/projects/eppendorf/main/esp-idf/examples/protocols/https_server/simple/_build/prvtkey.pem.S
+
+/home/mo/work/projects/eppendorf/main/esp-idf/examples/protocols/https_server/simple/_build/servercert.pem.S
+
