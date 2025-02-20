@@ -527,8 +527,8 @@ void vPortTCBPreDeleteHook( void *pxTCB );
 #define portEXIT_CRITICAL_SAFE(mux)                 vPortExitCriticalSafe(mux)
 #else
 /* Single-core variants of the critical section macros */
-#define portENTER_CRITICAL(mux)                 do {(void)(mux);  vPortEnterCritical();} while(0)
-#define portEXIT_CRITICAL(mux)                  do {(void)(mux);  vPortExitCritical();} while(0)
+#define portENTER_CRITICAL(mux)                 vPortEnterCritical()
+#define portEXIT_CRITICAL(mux)                  vPortExitCritical()
 #define portTRY_ENTER_CRITICAL(mux, timeout)    ({  \
     (void)mux; (void)timeout;                       \
     vPortEnterCritical();                           \
